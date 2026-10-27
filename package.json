@@ -1,6 +1,6 @@
 {
   "name": "opencode-sensenova-auth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "magpie / OpenCode provider plugin for SenseNova Token Plan (商汤日日新)",
   "type": "module",
   "main": "./index.mjs",
